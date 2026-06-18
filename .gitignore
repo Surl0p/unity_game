@@ -6,6 +6,13 @@
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
 
+# OS metadata
+.DS_Store
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
 /[Mm]emoryCaptures/
@@ -21,6 +28,10 @@
 
 # Visual Studio cache directory
 .vs/
+
+# IDE settings
+.idea/
+.vscode/
 
 # Gradle cache directory
 .gradle/
