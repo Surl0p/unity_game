@@ -19,7 +19,4 @@ We welcome contributions from anyone who is interested in helping improve our ga
 5. run the game
 6. Optional(Build the game)
 7. Make a pull request
-## Contributors
-<a href="https://github.com/Vansh0ter/UnityPlatformProj/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=Vansh0ter/UnityPlatformProj" />
-</a>
+
